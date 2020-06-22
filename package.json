@@ -1,5 +1,5 @@
 {
-  "name": "@eride/actions-template",
+  "name": "@eride/github-actions-continuous-delivery",
   "version": "1.0.0",
   "description": "Learn how to use GitHub Actions!",
   "main": "index.js",
@@ -34,5 +34,6 @@
     "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {},
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "repository": "git://github.com/eride/github-actions-continuous-delivery.git"
 }
